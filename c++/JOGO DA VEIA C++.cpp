@@ -2,13 +2,6 @@
 #include<stdio.h>
 
 
-/*esta imcompleta  mais irei termina e aprimora, estou tetando fazer  de todas as forma com
-  minha logica e como eu imagino que poderia ser feita  ate então não olhei nehum material extra ou de apoio por isso 
-  o atraso  , na verdade essesss if ainda esta sem muitas logica 
-  mais é oque esto conseguindo imaginar para testa  mais falta verifcar vencedor empate e se
-  o usario digita um numero que não seja dentro da minha matriz que 3 por 3 , e se não seguir as ordem dos if ele buga
-  mais vou resolver preciso de mais um tempinho  , ta uma bagunça mais vai rodar hahaha
- */
 
 int jogo[3][3] ;
 int col,lin;
